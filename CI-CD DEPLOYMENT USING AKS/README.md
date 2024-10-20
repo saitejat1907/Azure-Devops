@@ -46,7 +46,7 @@ This repository contains a 3-tier voting application with the following componen
 1. Clone the repository from GitHub.
 
    ```bash
-   git clone https://github.com/<your-username>/voting-app.git
+   git clone https://github.com/saitejat1907/example-voting-app
    cd voting-app
    ```
 
@@ -103,7 +103,3 @@ This repository contains a 3-tier voting application with the following componen
 ## Contributing
 
 Feel free to submit issues or pull requests if you would like to contribute to the project!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
